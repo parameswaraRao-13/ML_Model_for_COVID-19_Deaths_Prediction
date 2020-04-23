@@ -11,6 +11,7 @@ I implimented a simple Linear Regression model using corona_cases.csv data set f
 (e) monitor model summary and results
 
  corona_cases.csv: data set for model building.
+ html_table_to_csv_table_extraction.py: used to extract and creat data from website html tables into csv table.
  
  Result:
  1. Observed correlation between those by using Heat maps and got Pearson’s correlation factor: 0.969.
